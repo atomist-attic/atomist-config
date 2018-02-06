@@ -1,4 +1,8 @@
-# atomist-config
+# DEPRECATED atomist-config
+
+The atomist-config repository is no longer used by Atomist automations.
+
+---
 
 Atomist configuration repository for a GitHub organization.
 
